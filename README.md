@@ -1,2 +1,2 @@
-# peggybot
-YOU THINK YOU KNOW ME
+# isabelle-bot
+This is Isabelle bot for one special server
